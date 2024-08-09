@@ -25,13 +25,13 @@ Principle of Monte-Carlo simulations :
 - Monte-Carlo simulations are the model that used for detecting the huge amount of data. It works for picking some data from a huge database and to calculate the minimum, maximum, the average and the meant. This simulation can work really fast and easily. It is a numerical simulation method which takes probabilistic phenomena as the research object. As a matter of fact, it is a method of calculating unknown characteristic quantity by obtaining statistic value by sampling survey. 
 
 #### Advantages:
-• Flexibility: Monte Carlo simulations can be applied to a wide range of climate models and scenarios.
+- Flexibility: Monte Carlo simulations can be applied to a wide range of climate models and scenarios.
 
-• Uncertainty Quantification: These simulations are essential for quantifying uncertainties in climate predictions.
+- Uncertainty Quantification: These simulations are essential for quantifying uncertainties in climate predictions.
 #### Disadvantages:
-• Computational Cost: Monte Carlo simulations require significant computational resources, especially when high-quality random numbers are needed.
+- Computational Cost: Monte Carlo simulations require significant computational resources, especially when high-quality random numbers are needed.
 
-•Dependence on RNG Quality: The accuracy of Monte Carlo simulations is directly tied to the quality of the random numbers used.
+- Dependence on RNG Quality: The accuracy of Monte Carlo simulations is directly tied to the quality of the random numbers used.
 
 
 #### II.	Quantum Random Number Generators (QRNG) 
