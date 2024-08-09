@@ -58,10 +58,11 @@ Principle of Monte-Carlo simulations :
 - Resource Intensity: Running comprehensive tests on large datasets can be computationally expensive.
 
 ### C] Methodology
-#### Project reoprt - [Link]() 
+#### Project reoprt - [Link](https://github.com/Amitmodhwadia/Quantum-AI-for-Climate/blob/main/Project%20Report.pdf) 
 
 ### D] Demonstration(Code) :
-#### Evaluation of Random Number Generators - [Jupyter Notebook]()
+#### Evaluation of Random Number Generators - [Jupyter Notebook](https://github.com/Amitmodhwadia/Quantum-AI-for-Climate/blob/main/QRNG_TestSuite.ipynb)
+#### uantum Random Number Generator  - [Jupyter Notebook](https://github.com/Amitmodhwadia/Quantum-AI-for-Climate/blob/main/QRNG_illustration.ipynb)
 
 ## References
 
